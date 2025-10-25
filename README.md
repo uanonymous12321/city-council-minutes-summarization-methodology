@@ -13,7 +13,7 @@ Full Dataset (summary)
 Some JSON fields 
 - id: internal identifier for the segment
 - municipality: municipality name or id
-- topic: closed-list topic (e.g., "Environment", "General Administration, Finance, and Human Resources")
+- topic: closed-list topic (e.g. "General Administration, Finance, and Human Resources", "Traffic, Transport, and Communications", "Environment")
 - theme: short standardized theme/title of the segment
 - text: original (de-identified) textual segment from the minutes
 - summary: human-written plain-language summary produced according to the manual
