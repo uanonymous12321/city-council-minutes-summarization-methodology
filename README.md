@@ -17,6 +17,3 @@ Some JSON fields
 - theme: short standardized theme/title of the segment
 - text: original (de-identified) textual segment from the minutes
 - summary: human-written plain-language summary produced according to the manual
-
-License
-This dataset and repository are distributed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) license. See the included LICENSE file for details.
