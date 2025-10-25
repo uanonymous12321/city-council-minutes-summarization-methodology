@@ -1,4 +1,4 @@
-# meeting-minutes-summarization-methodology
+# city-council-minutes-summarization-methodology
 
 Short project overview
 This repository contains the annotation manual and example annotated minutes used in the paper "Designing a Structured Methodology for Manual Summarization of City Council Minutes" (LREC 2026). The dataset consists of manually produced, de-identified summaries of municipal executive meeting minutes in European Portuguese, plus the annotation guidance used by annotators.
